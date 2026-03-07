@@ -55,10 +55,22 @@ nav {
     top: 349px;
     left: 730px;
     padding-top: 15px;
+    text-align: center;
 }
 .section-about__border {
     width: 390px;
     height: 160px;
     border: 1px solid rgb(0, 0, 0);
     margin: 0 auto;
+    padding: 17px 0 0 28px;
+    text-align: left;
+}
+.section-about__title {
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 9px;
+}
+.section-about__text {
+    font-size: 16px;
+    margin: 0;
 }
