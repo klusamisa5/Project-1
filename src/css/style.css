@@ -81,12 +81,45 @@ nav {
     font-size: 16px;
     margin: 0;
 }
+.section-description {
+    margin-bottom: 20px;
+}
 .section-description__icon-box {
     text-align: center;
+    margin-bottom: 20px;
 }
 .section-description__icon-box img {
     margin-right: 76px;
 }
 .section-description__icon-box img:last-child {
     margin-right: 0px;
+}
+.section__text {
+    color: white;
+}
+.h2-1 {
+    font-size: 80px;
+    margin:  0px 0px 0px 0px;
+    text-align: center;
+}
+.red {
+    color: #f15b40;
+}
+.p-section__text {
+    font-size: 18px;
+    margin: 0px;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+.section-map__title {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+iframe {
+    display: block;
+    border-radius: 20px;
+    margin: 0 auto;
 }
